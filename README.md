@@ -1,4 +1,4 @@
-**deployment Link- https://aadharsetu.netlify.app/ **
+**deployment Link- https://aadharsetu.netlify.app/**
 # 🏛️ AadhaarSetu: National Identity Intelligence Engine
 
 **AadhaarSetu** is a high-fidelity administrative command center designed for the **Unique Identification Authority of India (UIDAI)**. It leverages advanced statistical modeling and generative intelligence to identify meaningful patterns, societal trends, and operational bottlenecks in Aadhaar enrolment and update cycles.
