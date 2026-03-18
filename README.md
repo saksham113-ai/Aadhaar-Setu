@@ -38,7 +38,6 @@ In a nation with 1.4 billion residents, identity data is more than just recordsâ
 | Layer | Technology |
 | :--- | :--- |
 | **Frontend** | React 19 (ESM Modules) |
-| **API KEY** | Google Gemini 3 (Flash & Pro Models) |
 | **Styling** | Tailwind CSS (Cinematic Government Theme) |
 | **Data Viz** | Recharts (High-fidelity Cartesian & Polar Graphs) |
 | **Icons** | Lucide React |
